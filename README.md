@@ -25,7 +25,7 @@ File iniitally consisted of the 3 worksheets, with the following table, prior to
 
 Workbook and document were prepared using Microsoft Excel (Version 16.47.1) and Microsoft Visual Basic for Applications (Version 7.1)
 
-# Applied use of:
+### Applied use of:
 
 -For...Next statements
 -Conditional statements
