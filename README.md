@@ -11,7 +11,7 @@
 
 ## File Description
 
-File iniitally consisted of the 3 worksheets, with the following table, prior to further manipulation of data:
+File iniitally consisted of the 3 worksheets, with the following table, prior to manipulation of data:
 
 -Ticker
 -Date
