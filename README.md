@@ -13,13 +13,13 @@
 
 File iniitally consisted of the 3 worksheets, with the following table, prior to manipulation of data:
 
--Ticker
--Date
--Open
--High
--Low
--CLose
--Vol
+- Ticker
+- Date
+- Open
+- High
+- Low
+- CLose
+- Vol
 
 ## Technologies
 
@@ -27,8 +27,8 @@ Workbook and document were prepared using Microsoft Excel (Version 16.47.1) and 
 
 ### Applied use of:
 
--For...Next statements
--Conditional statements
+- For...Next statements
+- Conditional statements
 
 
 
